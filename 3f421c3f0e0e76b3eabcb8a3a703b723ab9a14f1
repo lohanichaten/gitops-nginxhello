@@ -1,0 +1,1 @@
+{"jobID":"077a174f-c73e-6e16-e627-0350bc00cfff","spec":{"type":"policy","cause":{"Message":"","User":"chatenlohani \u003cchatenlohani@gmail.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}

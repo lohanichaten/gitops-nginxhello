@@ -13,3 +13,4 @@ spec:
   rollback:
     enable: true
     retry: true
+    maxRetries: 0
